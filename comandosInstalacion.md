@@ -56,4 +56,4 @@ Si vas a iniciar un proyecto "Todo en Uno", puedes lanzar este comando único qu
 
 Bash
 
-npm install @google-cloud/documentai @google-cloud/vertexai @google-cloud/text-to-speech @go
+    cd functions && npm install @google-cloud/documentai @google-cloud/vertexai @google-cloud/text-to-speech @google-cloud/speech cors && npm install --save-dev @types/cors
